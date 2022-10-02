@@ -1,0 +1,31 @@
+.sideDrawer {
+    background: #000000bf;
+    height: 100vh;
+    padding: 25px;
+}
+
+.sideDrawer>* {
+    margin-bottom: 10px;
+}
+
+.lang {
+    display: block;
+    width: 100%;
+}
+
+.input, .output {
+    color: white;
+}
+
+.topRow {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.topRow button {
+    width: 100%;
+}
+
+.topRow div {
+    margin-bottom: 5%;
+}
